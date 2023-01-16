@@ -23,13 +23,13 @@ uptickd keys add MyValidator --recover  --home=$HOME/.uptickd --keyring-backend=
 #### 3、Add account to ‘genesis’ file
 
 ```
-uptickd add-genesis-account MyValidator 10000000000000000000auptick --home=$HOME/.uptickd --keyring-backend=file
+uptickd add-genesis-account MyValidator 30000000000000000000000000auptick --home=$HOME/.uptickd --keyring-backend=file
 ```
 
 #### 4、Create a validator transaction. You can customize your node information, including "moniker"、"identity"、"website"、"details"
 
 ```
-uptickd gentx MyValidator 10000000000000000000auptick \
+uptickd gentx MyValidator 30000000000000000000000000auptick \
  --chain-id=uptick_117-1\
  --commission-rate="0.10" \
  --commission-max-rate="0.20" \
