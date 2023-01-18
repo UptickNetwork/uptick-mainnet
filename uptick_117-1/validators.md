@@ -1,5 +1,8 @@
 
 
+#   “This page is for special small-scale test purpose and by invitation only. Please do not submit if you are not in this goup of tester. We will refresh the page once we are ready for the mainnet launch."
+
+
 ## Create validator gentx file
 
 uptick version v0.2.4
