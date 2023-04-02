@@ -73,3 +73,5 @@ bb6aaef7667af68862ee582085c2e9dd2b568d86@54.254.135.200:26656
 ##  ERN VENTURES
 dedd92019e364182bc24e7d4052fd7cefa94a976@65.108.200.60:20656 
 
+##  itrocket
+dd482d080820020b144ca2efaf128d78261dea82@uptick-mainnet-peer.itrocket.net:10656 
