@@ -16,7 +16,10 @@
 
 # idea
 .idea
+*.xml
 
 # build
 build
 valsta
+
+
