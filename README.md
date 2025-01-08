@@ -1,3 +1,3 @@
 # uptick-mainnet
 
-The latest main network is [uptick_117-1](./uptick_117-1). You can find a list of seeds and peers to connect to in the respective directory.
+The most recent main network is [uptick_117 - 1](./uptick_117-1). In the corresponding directory, you'll be able to locate a list of seeds and peers for connection. 
