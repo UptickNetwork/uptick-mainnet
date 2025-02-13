@@ -17,7 +17,7 @@
 # idea
 .idea
 *.xml
-
+.vscode
 # build
 build
 valsta
